@@ -41,6 +41,8 @@ SuperStore Dataset: The dataset used for this project is publicly available and 
 [Source](https://www.kaggle.com/datasets/vivek468/superstore-dataset-final)
 
 ## Results
+[Dashboard Preview](https://github.com/disanza-franck/SuperStore/assets/146677173/dda73c92-15df-4130-a88f-c15feda7bda3)
+
 The dashboard provides valuable insights into the SuperStore's performance in 2012.<br />
 Sales and Profits Growth: Significant growth in sales and profits compared to 2011.<br />
 Category Analysis: Detailed view of profits and margins across different product categories, identifying high and low-performing segments.<br />
